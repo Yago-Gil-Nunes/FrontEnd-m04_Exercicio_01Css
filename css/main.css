@@ -9,3 +9,7 @@ seletor{
 h2{
     color: green;
 }
+
+#economy h2{
+    color: gold;
+}
