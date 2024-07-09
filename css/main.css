@@ -4,22 +4,7 @@
     margin: 0;
     padding: 0;
 }
-h1{
-    color: green;
-}
-/* Exemplo das descriçoes de cada papel do que foi feito acima.
-seletor{
-    propriedade: valor;
-}
-*/
-h2{
-    color: green;
-}
-/* para chamar um id exemplo abaixo, com #NomeId*/
-#economy h2{
-    color: gold;
-}
-/* para chamar uma class como no exemplo abaixo, com .NomedaClass*/
-.creation-date{
-    color:#ccc;
+
+header li {
+    display: inline;
 }
