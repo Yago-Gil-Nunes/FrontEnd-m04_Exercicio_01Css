@@ -19,5 +19,7 @@ h2{
 }
 /*  "*" seletor usado para selecionar todos os elementos da tela*/
 * {
-    color: red;
+   box-sizing: border-box;
+   margin: 0;
+   padding: 0;
 }
