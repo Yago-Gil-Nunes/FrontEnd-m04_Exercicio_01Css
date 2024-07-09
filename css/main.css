@@ -1,3 +1,9 @@
+/*  "*" seletor usado para selecionar todos os elementos da tela , quando removemos as config padroes do navegador e aplicamos a nossa propria config , isso é chamado de reset*/
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
 h1{
     color: green;
 }
@@ -16,10 +22,4 @@ h2{
 /* para chamar uma class como no exemplo abaixo, com .NomedaClass*/
 .creation-date{
     color:#ccc;
-}
-/*  "*" seletor usado para selecionar todos os elementos da tela*/
-* {
-   box-sizing: border-box;
-   margin: 0;
-   padding: 0;
 }
