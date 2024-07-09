@@ -9,10 +9,11 @@ seletor{
 h2{
     color: green;
 }
-
+/* para chamar um id exemplo abaixo, com #NomeId*/
 #economy h2{
     color: gold;
 }
+/* para chamar uma class como no exemplo abaixo, com .NomedaClass*/
 .creation-date{
     color:#ccc;
 }
