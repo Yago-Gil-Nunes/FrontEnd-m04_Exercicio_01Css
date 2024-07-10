@@ -120,3 +120,18 @@ section h2 {
 #fashion .articles article a {
     background-color: rgb(197, 65, 200);
 }
+
+.container-img {
+    width: 400px; /* Define a largura desejada */
+    height: 250px; /* Define a altura desejada */
+    overflow: hidden; /* Oculta partes da imagem que não cabem no contêiner */
+
+}
+
+.container-img  img {
+    width: 100%;
+    height: 100%;
+    object-fit: fill; /* Mantém o aspecto original da imagem preenchendo o contêiner */
+    
+}
+
