@@ -112,3 +112,11 @@ section h2 {
 #Games .articles article a {
     background-color: rgb(23, 199, 199);
 }
+
+#fashion {
+    background-color: rgb(253,192,203);
+}
+
+#fashion .articles article a {
+    background-color: rgb(197, 65, 200);
+}
